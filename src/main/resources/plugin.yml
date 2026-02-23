@@ -1,0 +1,19 @@
+name: AisePlugin
+version: 1.0.0
+main: com.amantrivedi.arise.ArisePlugin
+api-version: '1.20'
+author: amantrivedi7766
+description: Solo Leveling Arise Plugin for SMP
+commands:
+  arise:
+    description: Unlock Arise power or manually trigger it.
+    usage: /arise
+  arisework:
+    description: Order your souls to do work.
+    usage: /arisework <mobname> <order>
+  soul:
+    description: Manage your captured souls.
+    usage: /soul <release|attack|task> <name>
+  soulcome:
+    description: Call all your souls back to shadow.
+    usage: /soulcome
