@@ -1,0 +1,8 @@
+# Aise-smp-plugin Config
+max-soul-storage: 10000
+boss-mobs:
+  - WARDEN
+  - WITHER
+  - GHAST
+  - ENDER_DRAGON
+  - WITHER_SKELETON
